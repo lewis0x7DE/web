@@ -1,2 +1,1 @@
-# web
-Learning web
+# Learning web
