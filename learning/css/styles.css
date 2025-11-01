@@ -8,14 +8,14 @@ body {
 
 h1 {
     font-family: 'Roboto', sans-serif;
-    color: #2c7fb8;
+    color: #16780d;
     text-align: center;
     font-size: 2.5em;
 }
 
 h2 {
     font-family: 'Roboto', sans-serif;
-    color: #253494;
+    color: #2e9425;
     text-align: center;
     font-size: 2em;
 }
@@ -42,8 +42,8 @@ h2 {
     display: inline-block;
     margin: 0 15px;
     padding: 10px 20px;
-    color: #2c7fb8;
-    text-decoration: none;
+    color: #14c72c;
+    text-decoration: underline;
     font-weight: bold;
     transition: color 0.3s ease;
 }
